@@ -6,7 +6,6 @@ public class Square : MonoBehaviour
 {
     public float speed;
 
-
     public enum State
     {
         Move,
